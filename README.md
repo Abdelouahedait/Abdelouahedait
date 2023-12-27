@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ......
+-->- ⚡ Fun fact:
+<div align="center">
+   <img width="720" height="auto" 
+ src="https://badge.mediaplus.ma/Green binary/a-ait-bo" alt="a-ait-bo's 42 stats">
+</div> 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
-<div align="center">
-   <img width="720" height="auto" 
- src="https://badge.mediaplus.ma/binary/a-ait-bo" alt="a-ait-bo's 42 stats">
-</div>
+
