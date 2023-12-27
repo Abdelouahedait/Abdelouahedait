@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+   <img width="720" height="auto" 
+ src="https://badge.mediaplus.ma/binary/a-ait-bo" alt="a-ait-bo's 42 stats">
+</div>
