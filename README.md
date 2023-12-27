@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 # About ME 💬 :
 
 ### - I'm 19 years  old Machine Learning 
-<img hight="200" width="600" alt="GIF" align="auto" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="200" width="600" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
