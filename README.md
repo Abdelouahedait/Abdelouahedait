@@ -18,7 +18,9 @@ Here are some ideas to get you started:
  src="https://badge.mediaplus.ma/binary/a-ait-bo" alt="a-ait-bo's 42 stats">
 </div> 
 <h1 align="center"> welcome</h1>
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning 
+<img hight="200" width="600" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
