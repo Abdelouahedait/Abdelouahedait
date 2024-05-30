@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ### - I'm 20 years  old <br> Digital Technology Architect
 <img hight="50" width="250" alt="GIF" align="left" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png">
-<img hight="50" width="150" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png">
+<img hight="50" width="100" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png">
+<img hight="50" width="250" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png">
 <!--
 <img hight="200" width="600" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 -->-
