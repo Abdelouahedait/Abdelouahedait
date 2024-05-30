@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <img hight="50" width="250" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png">
 <!--
 <img hight="200" width="600" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
--->-
+-->
 </div>
 
